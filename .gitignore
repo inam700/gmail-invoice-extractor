@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.env
+.venv/
+*.pyc
+.pytest_cache/
+
+# Local test images (may contain real invoice data)
+*.jpg
+*.jpeg
+*.png
+*.pdf
